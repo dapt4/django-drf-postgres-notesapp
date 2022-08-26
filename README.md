@@ -30,7 +30,7 @@ ENV_USER='{your db user}'\
 ENV_PASSWORD='{your db password}'\
 
 run the command:
-`python manage.py migrate`
+`python manage.py migrate`\
 finally the project run with: 
 `$ python manage.py runserver`
 
